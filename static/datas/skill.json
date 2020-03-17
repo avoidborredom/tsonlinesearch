@@ -1,0 +1,2818 @@
+[
+  {
+    "eng_name": "Attack",
+    "viet_name": "Đấu vật",
+    "type": 0,
+    "id": 10000,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Throw Stone",
+    "viet_name": "Thuật mưa đá",
+    "type": 1,
+    "id": 10001,
+    "sp": 9,
+    "element": 1
+  },
+  {
+    "eng_name": "Trunk Charge",
+    "viet_name": "Lôi mộc",
+    "type": 1,
+    "id": 10002,
+    "sp": 13,
+    "element": 1
+  },
+  {
+    "eng_name": "Trap",
+    "viet_name": "Cạm bẫy",
+    "type": 1,
+    "id": 10003,
+    "sp": 14,
+    "element": 1
+  },
+  {
+    "eng_name": "Wood Spirit",
+    "viet_name": "Cây tinh",
+    "type": 1,
+    "id": 10004,
+    "sp": 18,
+    "element": 1
+  },
+  {
+    "eng_name": "Shooting Stone",
+    "viet_name": "Ném đá",
+    "type": 1,
+    "id": 10005,
+    "sp": 22,
+    "element": 1
+  },
+  {
+    "eng_name": "Grim Tooth",
+    "viet_name": "Địa nha",
+    "type": 1,
+    "id": 10006,
+    "sp": 28,
+    "element": 1
+  },
+  {
+    "eng_name": "Rolling Stone",
+    "viet_name": "Đá lăn",
+    "type": 1,
+    "id": 10007,
+    "sp": 34,
+    "element": 1
+  },
+  {
+    "eng_name": "Sand Storm",
+    "viet_name": "Phi sa tẩu thạch",
+    "type": 1,
+    "id": 10008,
+    "sp": 38,
+    "element": 1
+  },
+  {
+    "eng_name": "Deactivate Shield",
+    "viet_name": "Giải kết giới",
+    "type": 1,
+    "id": 10009,
+    "sp": 10,
+    "element": 1
+  },
+  {
+    "eng_name": "Activate Shield",
+    "viet_name": "Kết giới",
+    "type": 1,
+    "id": 10010,
+    "sp": 33,
+    "element": 1
+  },
+  {
+    "eng_name": "Mountain Press",
+    "viet_name": "Thái Sơn áp đỉnh",
+    "type": 1,
+    "id": 10011,
+    "sp": 40,
+    "element": 1
+  },
+  {
+    "eng_name": "Earthquake",
+    "viet_name": "Thiên Băng Địa Liệt",
+    "type": 1,
+    "id": 10012,
+    "sp": 50,
+    "element": 1
+  },
+  {
+    "eng_name": "Stampede",
+    "viet_name": "Vạn mã phi đằng",
+    "type": 1,
+    "id": 10013,
+    "sp": 45,
+    "element": 1
+  },
+  {
+    "eng_name": "Deactivate Reflect",
+    "viet_name": "Giải trừ kính",
+    "type": 1,
+    "id": 10014,
+    "sp": 10,
+    "element": 1
+  },
+  {
+    "eng_name": "Reflect",
+    "viet_name": "Kính",
+    "type": 1,
+    "id": 10015,
+    "sp": 40,
+    "element": 1
+  },
+  {
+    "eng_name": "Golem",
+    "viet_name": "Nham quái",
+    "type": 1,
+    "id": 10016,
+    "sp": 120,
+    "element": 1
+  },
+  {
+    "eng_name": "Stone Golem",
+    "viet_name": "Gọi tiểu trung nham",
+    "type": 1,
+    "id": 10017,
+    "sp": 120,
+    "element": 1
+  },
+  {
+    "eng_name": "Rock Golem",
+    "viet_name": "Gọi trung nham",
+    "type": 1,
+    "id": 10018,
+    "sp": 120,
+    "element": 1
+  },
+  {
+    "eng_name": "Golem",
+    "viet_name": "Gọi đại nham",
+    "type": 1,
+    "id": 10019,
+    "sp": 120,
+    "element": 1
+  },
+  {
+    "eng_name": "Heart of Earth",
+    "viet_name": "Địa Động Quyết",
+    "type": 1,
+    "id": 10020,
+    "sp": 0,
+    "element": 1
+  },
+  {
+    "eng_name": "Earth Rapier",
+    "viet_name": "ĐịaLiệt Vô Song Kiếm",
+    "type": 1,
+    "id": 10021,
+    "sp": 36,
+    "element": 1
+  },
+  {
+    "eng_name": "Ground Breaker",
+    "viet_name": "Địa Động Phá",
+    "type": 1,
+    "id": 10022,
+    "sp": 44,
+    "element": 1
+  },
+  {
+    "eng_name": "E-Stampede",
+    "viet_name": "Khu Tượng Đột",
+    "type": 1,
+    "id": 10023,
+    "sp": 54,
+    "element": 1
+  },
+  {
+    "eng_name": "Demolition",
+    "viet_name": "Hoành Tảo Thiên Quân",
+    "type": 1,
+    "id": 10024,
+    "sp": 48,
+    "element": 1
+  },
+  {
+    "eng_name": "Crater of Death",
+    "viet_name": "Thổ Băng Trận",
+    "type": 1,
+    "id": 10025,
+    "sp": 46,
+    "element": 1
+  },
+  {
+    "eng_name": "Shield of Earth",
+    "viet_name": "Linh Kính",
+    "type": 1,
+    "id": 10026,
+    "sp": 50,
+    "element": 1
+  },
+  {
+    "eng_name": "Shockwave",
+    "viet_name": "Vô Gian Chấn Ba",
+    "type": 1,
+    "id": 10027,
+    "sp": 56,
+    "element": 1
+  },
+  {
+    "eng_name": "Axe Boomerang",
+    "viet_name": "Cát Thiên Hồn Phủ",
+    "type": 1,
+    "id": 10028,
+    "sp": 52,
+    "element": 1
+  },
+  {
+    "eng_name": "Iron Star",
+    "viet_name": "Lưu Tinh Thiết Pháo",
+    "type": 1,
+    "id": 10029,
+    "sp": 56,
+    "element": 1
+  },
+  {
+    "eng_name": "Wolf Cannon",
+    "viet_name": "Lang Tinh Pháo",
+    "type": 1,
+    "id": 10030,
+    "sp": 44,
+    "element": 1
+  },
+  {
+    "eng_name": "Golden Shield",
+    "viet_name": "Kim Chung Tráo",
+    "type": 1,
+    "id": 10031,
+    "sp": 56,
+    "element": 1
+  },
+  {
+    "eng_name": "Elephant Charge",
+    "viet_name": "ChiếnTượngTrùngPhong",
+    "type": 1,
+    "id": 10032,
+    "sp": 72,
+    "element": 1
+  },
+  {
+    "eng_name": "Sand Trap",
+    "viet_name": "Sa Bộc Cầm",
+    "type": 1,
+    "id": 10033,
+    "sp": 44,
+    "element": 1
+  },
+  {
+    "eng_name": "King of Rock",
+    "viet_name": "Đồ Nham Vương Sát",
+    "type": 1,
+    "id": 10034,
+    "sp": 84,
+    "element": 1
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Sa bạo chi loạn",
+    "type": "",
+    "id": 10035,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Sa khau chi vũ",
+    "type": "",
+    "id": 10036,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Drown",
+    "viet_name": "Thuật nước ngập",
+    "type": 2,
+    "id": 11001,
+    "sp": 8,
+    "element": 2
+  },
+  {
+    "eng_name": "Ice Wall",
+    "viet_name": "Băng tường",
+    "type": 2,
+    "id": 11002,
+    "sp": 11,
+    "element": 2
+  },
+  {
+    "eng_name": "Ice Scimitar",
+    "viet_name": "Băng kiếm",
+    "type": 2,
+    "id": 11003,
+    "sp": 12,
+    "element": 2
+  },
+  {
+    "eng_name": "Healing Stream",
+    "viet_name": "Thanh lưu",
+    "type": 2,
+    "id": 11004,
+    "sp": 22,
+    "element": 2
+  },
+  {
+    "eng_name": "Power Geyser",
+    "viet_name": "Dũng tuyền",
+    "type": 2,
+    "id": 11005,
+    "sp": 18,
+    "element": 2
+  },
+  {
+    "eng_name": "SP Recovery",
+    "viet_name": "Thuật hồi ma",
+    "type": 2,
+    "id": 11006,
+    "sp": 35,
+    "element": 2
+  },
+  {
+    "eng_name": "Heal",
+    "viet_name": "Thuật trị liệu",
+    "type": 2,
+    "id": 11007,
+    "sp": 35,
+    "element": 2
+  },
+  {
+    "eng_name": "Flood",
+    "viet_name": "Hồng thủy",
+    "type": 2,
+    "id": 11008,
+    "sp": 26,
+    "element": 2
+  },
+  {
+    "eng_name": "Full SP Recovery",
+    "viet_name": "Toàn hồi ma thuật",
+    "type": 2,
+    "id": 11009,
+    "sp": 40,
+    "element": 2
+  },
+  {
+    "eng_name": "Full Heal",
+    "viet_name": "Toàn trị liệu thuật",
+    "type": 2,
+    "id": 11010,
+    "sp": 42,
+    "element": 2
+  },
+  {
+    "eng_name": "Hailstone",
+    "viet_name": "Băng đá",
+    "type": 2,
+    "id": 11011,
+    "sp": 32,
+    "element": 2
+  },
+  {
+    "eng_name": "Esuna",
+    "viet_name": "Trạng thái giải trừ",
+    "type": 2,
+    "id": 11012,
+    "sp": 15,
+    "element": 2
+  },
+  {
+    "eng_name": "Resurrection",
+    "viet_name": "Thuật hồi sinh",
+    "type": 2,
+    "id": 11013,
+    "sp": 40,
+    "element": 2
+  },
+  {
+    "eng_name": "Freeze",
+    "viet_name": "Băng phong",
+    "type": 2,
+    "id": 11014,
+    "sp": 40,
+    "element": 2
+  },
+  {
+    "eng_name": "Defrost",
+    "viet_name": "Băng tan",
+    "type": 2,
+    "id": 11015,
+    "sp": 10,
+    "element": 2
+  },
+  {
+    "eng_name": "Shiva",
+    "viet_name": "Thủy thần",
+    "type": 2,
+    "id": 11016,
+    "sp": 120,
+    "element": 2
+  },
+  {
+    "eng_name": "Lady of Lake",
+    "viet_name": "Gọi tiểu trung thủy",
+    "type": 2,
+    "id": 11017,
+    "sp": 120,
+    "element": 2
+  },
+  {
+    "eng_name": "Goddess of Stream",
+    "viet_name": "Gọi trung thủy",
+    "type": 2,
+    "id": 11018,
+    "sp": 120,
+    "element": 2
+  },
+  {
+    "eng_name": "Shiva",
+    "viet_name": "Gọi đại thủy",
+    "type": 2,
+    "id": 11019,
+    "sp": 120,
+    "element": 2
+  },
+  {
+    "eng_name": "Heart of Water",
+    "viet_name": "Băng Tâm Quyết",
+    "type": 2,
+    "id": 11020,
+    "sp": 0,
+    "element": 2
+  },
+  {
+    "eng_name": "Ice Slash",
+    "viet_name": "Băng Tuyền Trảm",
+    "type": 2,
+    "id": 11021,
+    "sp": 24,
+    "element": 2
+  },
+  {
+    "eng_name": "Ice Drill",
+    "viet_name": "Băng Phách Chùy",
+    "type": 2,
+    "id": 11022,
+    "sp": 30,
+    "element": 2
+  },
+  {
+    "eng_name": "Frost Shatter",
+    "viet_name": "Sương Hàn Đống Liệt",
+    "type": 2,
+    "id": 11023,
+    "sp": 50,
+    "element": 2
+  },
+  {
+    "eng_name": "Serenity",
+    "viet_name": "Minh Kính Chỉ Thủy",
+    "type": 2,
+    "id": 11024,
+    "sp": 45,
+    "element": 2
+  },
+  {
+    "eng_name": "Advanced Esuna",
+    "viet_name": "Tiến Giai Trạng Giải",
+    "type": 2,
+    "id": 11025,
+    "sp": 48,
+    "element": 2
+  },
+  {
+    "eng_name": "Rejuvenation",
+    "viet_name": "Diệu Thủ Hồi Xuân",
+    "type": 2,
+    "id": 11026,
+    "sp": 72,
+    "element": 2
+  },
+  {
+    "eng_name": "Blizzard",
+    "viet_name": "Thiên Hồi Băng Vũ",
+    "type": 2,
+    "id": 11027,
+    "sp": 52,
+    "element": 2
+  },
+  {
+    "eng_name": "Thundering Fist",
+    "viet_name": "Sương Lôi Quyền",
+    "type": 2,
+    "id": 11028,
+    "sp": 52,
+    "element": 2
+  },
+  {
+    "eng_name": "Super SP Recovery",
+    "viet_name": "Siêu Hồi Ma Thuật",
+    "type": 2,
+    "id": 11029,
+    "sp": 60,
+    "element": 2
+  },
+  {
+    "eng_name": "Grand Healing",
+    "viet_name": "Thiên Giáng Cam Lâm",
+    "type": 2,
+    "id": 11030,
+    "sp": 72,
+    "element": 2
+  },
+  {
+    "eng_name": "Super Esuna",
+    "viet_name": "SiêuTrạng Giải Thuật",
+    "type": 2,
+    "id": 11031,
+    "sp": 60,
+    "element": 2
+  },
+  {
+    "eng_name": "Emptiness",
+    "viet_name": "Minh Hà Vô Tưởng",
+    "type": 2,
+    "id": 11032,
+    "sp": 52,
+    "element": 2
+  },
+  {
+    "eng_name": "Zanmato",
+    "viet_name": "Trảm Kỵ Nhất Thiểm",
+    "type": 2,
+    "id": 11033,
+    "sp": 60,
+    "element": 2
+  },
+  {
+    "eng_name": "Hex Blizzard",
+    "viet_name": "Lục Hồi Thiên BăngVũ",
+    "type": 2,
+    "id": 11034,
+    "sp": 84,
+    "element": 2
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Hải đào chi loạn",
+    "type": "",
+    "id": 11035,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Thuỷ triều chi vũ",
+    "type": "",
+    "id": 11036,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Start Fire",
+    "viet_name": "Thuật phóng hỏa",
+    "type": 3,
+    "id": 12001,
+    "sp": 9,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame",
+    "viet_name": "Liệt hỏa",
+    "type": 3,
+    "id": 12002,
+    "sp": 12,
+    "element": 3
+  },
+  {
+    "eng_name": "Fire Arrow",
+    "viet_name": "Hỏa tiễn",
+    "type": 3,
+    "id": 12003,
+    "sp": 15,
+    "element": 3
+  },
+  {
+    "eng_name": "Fire Ball",
+    "viet_name": "Hỏa cầu",
+    "type": 3,
+    "id": 12004,
+    "sp": 22,
+    "element": 3
+  },
+  {
+    "eng_name": "Fire Wheel",
+    "viet_name": "Hỏa luân",
+    "type": 3,
+    "id": 12005,
+    "sp": 22,
+    "element": 3
+  },
+  {
+    "eng_name": "Deathblow",
+    "viet_name": "Hội tâm nhất kích",
+    "type": 3,
+    "id": 12006,
+    "sp": 24,
+    "element": 3
+  },
+  {
+    "eng_name": "Flamedance",
+    "viet_name": "Diễm Chi Vũ",
+    "type": 3,
+    "id": 12007,
+    "sp": 30,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Tornado",
+    "viet_name": "Phong hỏa luân",
+    "type": 3,
+    "id": 12008,
+    "sp": 30,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Saber",
+    "viet_name": "Hỏa kiếm",
+    "type": 3,
+    "id": 12009,
+    "sp": 30,
+    "element": 3
+  },
+  {
+    "eng_name": "Drake Inferno",
+    "viet_name": "Hỏa Long",
+    "type": 3,
+    "id": 12010,
+    "sp": 37,
+    "element": 3
+  },
+  {
+    "eng_name": "Inferno Wheel",
+    "viet_name": "Bát diện hỏa luân",
+    "type": 3,
+    "id": 12011,
+    "sp": 37,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Strike",
+    "viet_name": "Cuồng diêm trảm",
+    "type": 3,
+    "id": 12012,
+    "sp": 46,
+    "element": 3
+  },
+  {
+    "eng_name": "Breath of Fire",
+    "viet_name": "Tam vị chân hỏa",
+    "type": 3,
+    "id": 12013,
+    "sp": 50,
+    "element": 3
+  },
+  {
+    "eng_name": "Reign of Fire",
+    "viet_name": "Phong Hỏa LiêuNguyên",
+    "type": 3,
+    "id": 12014,
+    "sp": 60,
+    "element": 3
+  },
+  {
+    "eng_name": "Nova",
+    "viet_name": "Bạch hồng quán nhật",
+    "type": 3,
+    "id": 12015,
+    "sp": 50,
+    "element": 3
+  },
+  {
+    "eng_name": "Phoenix",
+    "viet_name": "Phụng hoàng",
+    "type": 3,
+    "id": 12016,
+    "sp": 120,
+    "element": 3
+  },
+  {
+    "eng_name": "Pyro Fly",
+    "viet_name": "Gọi tiểu trung phụng",
+    "type": 3,
+    "id": 12017,
+    "sp": 120,
+    "element": 3
+  },
+  {
+    "eng_name": "Fire Bird",
+    "viet_name": "Gọi tiểu trung phụng",
+    "type": 3,
+    "id": 12018,
+    "sp": 120,
+    "element": 3
+  },
+  {
+    "eng_name": "Phoenix",
+    "viet_name": "Gọi đại phụng",
+    "type": 3,
+    "id": 12019,
+    "sp": 120,
+    "element": 3
+  },
+  {
+    "eng_name": "Heart of Fire",
+    "viet_name": "Hỏa Dương Quyết",
+    "type": 3,
+    "id": 12020,
+    "sp": 0,
+    "element": 3
+  },
+  {
+    "eng_name": "Solar Sword",
+    "viet_name": "Cực Dương Kiếm",
+    "type": 3,
+    "id": 12021,
+    "sp": 36,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Dragon",
+    "viet_name": "Cuồng Long Phệ Nhật",
+    "type": 3,
+    "id": 12022,
+    "sp": 66,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Geyser",
+    "viet_name": "Sí Diễm Vô Nhị",
+    "type": 3,
+    "id": 12023,
+    "sp": 48,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Shield",
+    "viet_name": "Đan Dương Hộ Thể",
+    "type": 3,
+    "id": 12024,
+    "sp": 30,
+    "element": 3
+  },
+  {
+    "eng_name": "Warcry",
+    "viet_name": "CuồngNhiệt Chiến Hồn",
+    "type": 3,
+    "id": 12025,
+    "sp": 60,
+    "element": 3
+  },
+  {
+    "eng_name": "Final Thunder",
+    "viet_name": "Ngũ Lôi Oanh Đỉnh",
+    "type": 3,
+    "id": 12026,
+    "sp": 54,
+    "element": 3
+  },
+  {
+    "eng_name": "Fiery Strike",
+    "viet_name": "Hỏa Bạo Nhất Kích",
+    "type": 3,
+    "id": 12027,
+    "sp": 52,
+    "element": 3
+  },
+  {
+    "eng_name": "Fireball Slam",
+    "viet_name": "Liệt Thuật Hào Hỏa",
+    "type": 3,
+    "id": 12028,
+    "sp": 56,
+    "element": 3
+  },
+  {
+    "eng_name": "Dragon Breath",
+    "viet_name": "Xích Long Cự",
+    "type": 3,
+    "id": 12029,
+    "sp": 56,
+    "element": 3
+  },
+  {
+    "eng_name": "Thunder Fire",
+    "viet_name": "Lôi Hỏa Thiệu Lâm",
+    "type": 3,
+    "id": 12030,
+    "sp": 64,
+    "element": 3
+  },
+  {
+    "eng_name": "Flame Fist",
+    "viet_name": "Dương Viêm",
+    "type": 3,
+    "id": 12031,
+    "sp": 52,
+    "element": 3
+  },
+  {
+    "eng_name": "Volcanic Land",
+    "viet_name": "Chúc Dung Phần Dã",
+    "type": 3,
+    "id": 12032,
+    "sp": 72,
+    "element": 3
+  },
+  {
+    "eng_name": "Fiery Dragon",
+    "viet_name": "Long Bá Liệt Trảm",
+    "type": 3,
+    "id": 12033,
+    "sp": 84,
+    "element": 3
+  },
+  {
+    "eng_name": "Lord of Dragon",
+    "viet_name": "Long Vương Chấn Hề",
+    "type": 3,
+    "id": 12034,
+    "sp": 84,
+    "element": 3
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Hoả thiệt chi loạn",
+    "type": "",
+    "id": 12035,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Liệt diễm chi vũ",
+    "type": "",
+    "id": 12036,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Chân.TLong Bá L Trảm",
+    "type": "",
+    "id": 12037,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Đại Thánh trảm yêu",
+    "type": "",
+    "id": 12038,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "ĐT trảm yêu áo nghĩa",
+    "type": "",
+    "id": 12039,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Kim tinh hoả nhãn",
+    "type": "",
+    "id": 12040,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Xà mâu hồn phệ kích",
+    "type": "",
+    "id": 12041,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "XM Hồn phệ kích A.N",
+    "type": "",
+    "id": 12042,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Bạch Hổ tàng địa phệ",
+    "type": "",
+    "id": 12043,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "BH tàng địa phệ A.N",
+    "type": "",
+    "id": 12044,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Wind",
+    "viet_name": "Thuật ngự phong",
+    "type": 4,
+    "id": 13001,
+    "sp": 9,
+    "element": 4
+  },
+  {
+    "eng_name": "Whirlwind",
+    "viet_name": "Tuyền Phong",
+    "type": 4,
+    "id": 13002,
+    "sp": 15,
+    "element": 4
+  },
+  {
+    "eng_name": "Wind Walk",
+    "viet_name": "Lẫn tránh",
+    "type": 4,
+    "id": 13003,
+    "sp": 13,
+    "element": 4
+  },
+  {
+    "eng_name": "Violent Gale",
+    "viet_name": "Cuồng phong",
+    "type": 4,
+    "id": 13004,
+    "sp": 23,
+    "element": 4
+  },
+  {
+    "eng_name": "Invisibility",
+    "viet_name": "Thuật ẩn mình",
+    "type": 4,
+    "id": 13005,
+    "sp": 22,
+    "element": 4
+  },
+  {
+    "eng_name": "Typhoon",
+    "viet_name": "Bão Phong",
+    "type": 4,
+    "id": 13006,
+    "sp": 30,
+    "element": 4
+  },
+  {
+    "eng_name": "Stun Strike",
+    "viet_name": "Huyền Kích",
+    "type": 4,
+    "id": 13007,
+    "sp": 31,
+    "element": 4
+  },
+  {
+    "eng_name": "Replication",
+    "viet_name": "Thuật phân thân",
+    "type": 4,
+    "id": 13008,
+    "sp": 38,
+    "element": 4
+  },
+  {
+    "eng_name": "Tornado",
+    "viet_name": "Phong quyển tàn vân",
+    "type": 4,
+    "id": 13009,
+    "sp": 40,
+    "element": 4
+  },
+  {
+    "eng_name": "Combo Attack",
+    "viet_name": "Liên kích",
+    "type": 4,
+    "id": 13010,
+    "sp": 40,
+    "element": 4
+  },
+  {
+    "eng_name": "Mini",
+    "viet_name": "Thuật thu nhỏ",
+    "type": 4,
+    "id": 13011,
+    "sp": 33,
+    "element": 4
+  },
+  {
+    "eng_name": "Magnify",
+    "viet_name": "Thuật phóng đại",
+    "type": 4,
+    "id": 13012,
+    "sp": 33,
+    "element": 4
+  },
+  {
+    "eng_name": "Random Hit",
+    "viet_name": "Loạn kích",
+    "type": 4,
+    "id": 13013,
+    "sp": 49,
+    "element": 4
+  },
+  {
+    "eng_name": "Healing Breeze",
+    "viet_name": "Nguyên khí",
+    "type": 4,
+    "id": 13014,
+    "sp": 45,
+    "element": 4
+  },
+  {
+    "eng_name": "Wood Dragon",
+    "viet_name": "Thanh long",
+    "type": 4,
+    "id": 13015,
+    "sp": 120,
+    "element": 4
+  },
+  {
+    "eng_name": "Leaf Lizard",
+    "viet_name": "Gọi tiểu trung long",
+    "type": 4,
+    "id": 13016,
+    "sp": 120,
+    "element": 4
+  },
+  {
+    "eng_name": "Grass Serpeant",
+    "viet_name": "Gọi trung long",
+    "type": 4,
+    "id": 13017,
+    "sp": 120,
+    "element": 4
+  },
+  {
+    "eng_name": "Wood Dragon",
+    "viet_name": "Gọi đại long",
+    "type": 4,
+    "id": 13018,
+    "sp": 120,
+    "element": 4
+  },
+  {
+    "eng_name": "Heart of Wind",
+    "viet_name": "Phong Ngạo Quyết",
+    "type": 4,
+    "id": 13019,
+    "sp": 0,
+    "element": 4
+  },
+  {
+    "eng_name": "Battle Wind",
+    "viet_name": "Phong Chi Chiến Ý",
+    "type": 4,
+    "id": 13020,
+    "sp": 60,
+    "element": 4
+  },
+  {
+    "eng_name": "Repel",
+    "viet_name": "Đẩu Chuyển Tinh Di",
+    "type": 4,
+    "id": 13021,
+    "sp": 48,
+    "element": 4
+  },
+  {
+    "eng_name": "Wind Pulse",
+    "viet_name": "Liệt Phong Đạn",
+    "type": 4,
+    "id": 13022,
+    "sp": 36,
+    "element": 4
+  },
+  {
+    "eng_name": "Wind Storm",
+    "viet_name": "Long Quyển Cụ Phong",
+    "type": 4,
+    "id": 13023,
+    "sp": 54,
+    "element": 4
+  },
+  {
+    "eng_name": "Illusion Strike",
+    "viet_name": "Ảo Ảnh Liên Kích",
+    "type": 4,
+    "id": 13024,
+    "sp": 44,
+    "element": 4
+  },
+  {
+    "eng_name": "Vanishing",
+    "viet_name": "Vô Ảnh Vô Tướng",
+    "type": 4,
+    "id": 13025,
+    "sp": 52,
+    "element": 4
+  },
+  {
+    "eng_name": "Cracking Thunder",
+    "viet_name": "Băng Lôi",
+    "type": 4,
+    "id": 13026,
+    "sp": 44,
+    "element": 4
+  },
+  {
+    "eng_name": "Tornado Slam",
+    "viet_name": "Phong Huyễn Thần Ly",
+    "type": 4,
+    "id": 13027,
+    "sp": 42,
+    "element": 4
+  },
+  {
+    "eng_name": "Destroyer Sword",
+    "viet_name": "Trảm Kỵ Phi Kiếm",
+    "type": 4,
+    "id": 13028,
+    "sp": 48,
+    "element": 4
+  },
+  {
+    "eng_name": "Wushido",
+    "viet_name": "Sơn Lam",
+    "type": 4,
+    "id": 13029,
+    "sp": 56,
+    "element": 4
+  },
+  {
+    "eng_name": "Soul Absorb",
+    "viet_name": "Thức Qủy Hấp Hồn",
+    "type": 4,
+    "id": 13030,
+    "sp": 50,
+    "element": 4
+  },
+  {
+    "eng_name": "Thunderstorm",
+    "viet_name": "Phong Kình Lôi Minh",
+    "type": 4,
+    "id": 13031,
+    "sp": 84,
+    "element": 4
+  },
+  {
+    "eng_name": "Ninjitsu",
+    "viet_name": "Ẩn Phân Thân Thuật",
+    "type": 4,
+    "id": 13032,
+    "sp": 68,
+    "element": 4
+  },
+  {
+    "eng_name": "Lightning Shock",
+    "viet_name": "Chấn Điện",
+    "type": 4,
+    "id": 13033,
+    "sp": 72,
+    "element": 4
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Cuồng phong chi loạn",
+    "type": "",
+    "id": 13034,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Xuy phất chi vũ",
+    "type": "",
+    "id": 13035,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "TLong Y nguyệt trảm",
+    "type": "",
+    "id": 13036,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "TL YN trảm áo nghĩa",
+    "type": "",
+    "id": 13037,
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Scan",
+    "viet_name": "Thuật trinh thám",
+    "type": 5,
+    "id": 14001,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Flee",
+    "viet_name": "Thuật đào tẩu",
+    "type": 5,
+    "id": 14002,
+    "sp": 10,
+    "element": 5
+  },
+  {
+    "eng_name": "Bazaar",
+    "viet_name": "Thuật mua bán",
+    "type": 5,
+    "id": 14003,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Excavation",
+    "viet_name": "Thuật dò xét",
+    "type": 5,
+    "id": 14004,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Alchemy",
+    "viet_name": "Thuật luyện đơn",
+    "type": 5,
+    "id": 14005,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Shout",
+    "viet_name": "Đại hô",
+    "type": 5,
+    "id": 14006,
+    "sp": 20,
+    "element": 5
+  },
+  {
+    "eng_name": "Awakening",
+    "viet_name": "Giải hôn",
+    "type": 5,
+    "id": 14007,
+    "sp": 5,
+    "element": 5
+  },
+  {
+    "eng_name": "Slumber",
+    "viet_name": "Hôn mê",
+    "type": 5,
+    "id": 14008,
+    "sp": 15,
+    "element": 5
+  },
+  {
+    "eng_name": "Recruit",
+    "viet_name": "Người làm",
+    "type": 5,
+    "id": 14009,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Mining",
+    "viet_name": "Thuật đào khoáng",
+    "type": 5,
+    "id": 14010,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Forging",
+    "viet_name": "Thuật đúc luyện",
+    "type": 5,
+    "id": 14011,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Cooperate",
+    "viet_name": "Đồng tâm",
+    "type": 5,
+    "id": 14012,
+    "sp": 36,
+    "element": 5
+  },
+  {
+    "eng_name": "Cheer",
+    "viet_name": "Cổ Vũ",
+    "type": 5,
+    "id": 14013,
+    "sp": 36,
+    "element": 5
+  },
+  {
+    "eng_name": "Antidote",
+    "viet_name": "Giải độc",
+    "type": 5,
+    "id": 14014,
+    "sp": 8,
+    "element": 5
+  },
+  {
+    "eng_name": "Envenom",
+    "viet_name": "Bỏ độc",
+    "type": 5,
+    "id": 14015,
+    "sp": 25,
+    "element": 5
+  },
+  {
+    "eng_name": "Trade",
+    "viet_name": "Thuật giao dịch",
+    "type": 5,
+    "id": 14016,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Sit",
+    "viet_name": "Tịnh toạ",
+    "type": 5,
+    "id": 14017,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Deep Prospecting",
+    "viet_name": "Thuật đào sâu",
+    "type": 5,
+    "id": 14018,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Creation",
+    "viet_name": "Thuật chế tạo",
+    "type": 5,
+    "id": 14019,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Confuse",
+    "viet_name": "Hoạch lí phản",
+    "type": 5,
+    "id": 14020,
+    "sp": 30,
+    "element": 5
+  },
+  {
+    "eng_name": "Blind",
+    "viet_name": "Hỗn loạn",
+    "type": 5,
+    "id": 14021,
+    "sp": 25,
+    "element": 5
+  },
+  {
+    "eng_name": "Eye Drops",
+    "viet_name": "Giải hỗn loạn",
+    "type": 5,
+    "id": 14022,
+    "sp": 10,
+    "element": 5
+  },
+  {
+    "eng_name": "Riding",
+    "viet_name": "Cưỡi ngựa",
+    "type": 5,
+    "id": 14023,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Hocus Pokus",
+    "viet_name": "Linh quang ẩn hiện",
+    "type": 5,
+    "id": 14024,
+    "sp": 20,
+    "element": 5
+  },
+  {
+    "eng_name": "Mug",
+    "viet_name": "Chiếm đọat",
+    "type": 5,
+    "id": 14025,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Summon",
+    "viet_name": "Triệu gọi",
+    "type": 5,
+    "id": 14026,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Mentor",
+    "viet_name": "Đạo sư",
+    "type": 5,
+    "id": 14027,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Teamwork",
+    "viet_name": "Đoàn kết",
+    "type": 5,
+    "id": 14028,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Gypsy's Bomb",
+    "viet_name": "Cát Phổ Trại bắn đạn",
+    "type": 5,
+    "id": 14029,
+    "sp": 60,
+    "element": 5
+  },
+  {
+    "eng_name": "Gypsy's Crush",
+    "viet_name": "Cát Phổ Trại áp đỉnh",
+    "type": 5,
+    "id": 14030,
+    "sp": 80,
+    "element": 5
+  },
+  {
+    "eng_name": "Skill Cancel",
+    "viet_name": "Tiếp chiêu",
+    "type": 5,
+    "id": 14031,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Refine",
+    "viet_name": "Tinh luyện",
+    "type": 5,
+    "id": 14032,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Arrow",
+    "viet_name": "Xạ Tiễn",
+    "type": 5,
+    "id": 14033,
+    "sp": 30,
+    "element": 5
+  },
+  {
+    "eng_name": "Advanced Riding",
+    "viet_name": "Kỵ Binh",
+    "type": 5,
+    "id": 14034,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Reborn",
+    "viet_name": "Chuyển Thể",
+    "type": 5,
+    "id": 14035,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Bull's Eye",
+    "viet_name": "Bách Xuyên",
+    "type": 5,
+    "id": 14036,
+    "sp": 24,
+    "element": 5
+  },
+  {
+    "eng_name": "Arrow Shower",
+    "viet_name": "Tiễn Vũ",
+    "type": 5,
+    "id": 14037,
+    "sp": 30,
+    "element": 5
+  },
+  {
+    "eng_name": "Grand Cycle",
+    "viet_name": "Đại chu thiên",
+    "type": 5,
+    "id": 14038,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Hero Force",
+    "viet_name": "Bá khí",
+    "type": 5,
+    "id": 14039,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Heroism",
+    "viet_name": "Bá ý",
+    "type": 5,
+    "id": 14040,
+    "sp": 46,
+    "element": 5
+  },
+  {
+    "eng_name": "Encourage",
+    "viet_name": "Lực bạt sơn hề",
+    "type": 5,
+    "id": 14041,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Wave Stomp",
+    "viet_name": "Sóng cuồng",
+    "type": 5,
+    "id": 14042,
+    "sp": 54,
+    "element": 5
+  },
+  {
+    "eng_name": "Fearless",
+    "viet_name": "Anh khí hộ thân",
+    "type": 5,
+    "id": 14043,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Imperial Shield",
+    "viet_name": "ThiênThần thuẫn",
+    "type": 5,
+    "id": 14044,
+    "sp": 46,
+    "element": 5
+  },
+  {
+    "eng_name": "True Sight",
+    "viet_name": "Tâm nhãn",
+    "type": 5,
+    "id": 14045,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Shield",
+    "viet_name": "NgưngKhí HộThân",
+    "type": 5,
+    "id": 14046,
+    "sp": 46,
+    "element": 5
+  },
+  {
+    "eng_name": "Trick",
+    "viet_name": "Dùng kế",
+    "type": 5,
+    "id": 14047,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Strategy",
+    "viet_name": "Trí thủ",
+    "type": 5,
+    "id": 14048,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Guard Stance",
+    "viet_name": "Chống địch",
+    "type": 5,
+    "id": 14049,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Aggro",
+    "viet_name": "Sách động",
+    "type": 5,
+    "id": 14050,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Holy Blessing",
+    "viet_name": "Tiên khiếu",
+    "type": 5,
+    "id": 14051,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Conversion",
+    "viet_name": "HóaHuyếtHòanHồn",
+    "type": 5,
+    "id": 14052,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Soul Strike",
+    "viet_name": "ThánhLinh thuật",
+    "type": 5,
+    "id": 14053,
+    "sp": 52,
+    "element": 5
+  },
+  {
+    "eng_name": "Heaven Bolt",
+    "viet_name": "CànKhônThiênLôi",
+    "type": 5,
+    "id": 14054,
+    "sp": 84,
+    "element": 5
+  },
+  {
+    "eng_name": "Divine Shield",
+    "viet_name": "Tổn huyết",
+    "type": 5,
+    "id": 14055,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Xianqi deployed",
+    "viet_name": "Tiên khí hộ thân",
+    "type": 5,
+    "id": 14056,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Vật lý giảm nữa",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Thiết bố sam",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Đằng thuật giáp",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Toàn thể Thiên Lôi",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Thiên Lôi Thần Thuẫn",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Capture",
+    "viet_name": "Bắt cóc",
+    "type": 6,
+    "id": 15001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Net",
+    "viet_name": "Thả lưới",
+    "type": 6,
+    "id": 15002,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Net Success",
+    "viet_name": "Thả lưới thành công",
+    "type": 6,
+    "id": 15003,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Balls traps",
+    "viet_name": "Phãn đoàn bộ võng",
+    "type": 7,
+    "id": 15004,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Balls to the success",
+    "viet_name": "Thành công phãn đoàn",
+    "type": 7,
+    "id": 15005,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Arrow Tower",
+    "viet_name": "Lầu tên",
+    "type": 7,
+    "id": 16001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "City Gate",
+    "viet_name": "Thành Môn",
+    "type": 7,
+    "id": 16002,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Defend",
+    "viet_name": "Phòng ngự",
+    "type": 8,
+    "id": 17001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Escape",
+    "viet_name": "Chạy trốn",
+    "type": 9,
+    "id": 18001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Escape Fail",
+    "viet_name": "Chạy trốn thất bại",
+    "type": 9,
+    "id": 18002,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Item",
+    "viet_name": "Vật phẩm",
+    "type": 10,
+    "id": 19001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Vampiric Tree",
+    "viet_name": "Cây tinh hút máu",
+    "type": 11,
+    "id": 20001,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Poisoned",
+    "viet_name": "Trúng độc mất máu",
+    "type": 11,
+    "id": 20002,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Deflect Harm",
+    "viet_name": "Thương hại phản đàn",
+    "type": 11,
+    "id": 20003,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Disastrous Phantom",
+    "viet_name": "Thần xui xẻo",
+    "type": 12,
+    "id": 20004,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "God of Luck",
+    "viet_name": "Phúc thần",
+    "type": 12,
+    "id": 20005,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Protect",
+    "viet_name": "Hộ chủ",
+    "type": 5,
+    "id": 20006,
+    "sp": 0,
+    "element": 5
+  },
+  {
+    "eng_name": "Deactivate Protect",
+    "viet_name": "Giải hộ chủ",
+    "type": 13,
+    "id": 20007,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Amulet",
+    "viet_name": "Bùa chú",
+    "type": 14,
+    "id": 20008,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Siege Ram",
+    "viet_name": "Xe xung phong",
+    "type": 7,
+    "id": 20009,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Blade Truck",
+    "viet_name": "Xe dao",
+    "type": 7,
+    "id": 20010,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Arbalest",
+    "viet_name": "Xe nỏ",
+    "type": 7,
+    "id": 20011,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Catapult",
+    "viet_name": "Xe ném đá",
+    "type": 7,
+    "id": 20012,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Fence/ Arrow Tower",
+    "viet_name": "Giếng/tháp tên",
+    "type": 7,
+    "id": 20013,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Quad Darkness",
+    "viet_name": "Tứ nhân hỗn lọan",
+    "type": 15,
+    "id": 20014,
+    "sp": 50,
+    "element": 0
+  },
+  {
+    "eng_name": "Quad Esuna",
+    "viet_name": "Tứ nhân trạng giải",
+    "type": 15,
+    "id": 20015,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Head of Dragon",
+    "viet_name": "Long đầu",
+    "type": 15,
+    "id": 20016,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Right Claw",
+    "viet_name": "Hữu long trảo",
+    "type": 15,
+    "id": 20017,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Left Talon",
+    "viet_name": "Tả long trảo",
+    "type": 15,
+    "id": 20018,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Hex Esuna",
+    "viet_name": "Giải thoát",
+    "type": 15,
+    "id": 20019,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Triple Stun",
+    "viet_name": "Tam sát",
+    "type": 15,
+    "id": 20020,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Grim All",
+    "viet_name": "Loạn Nha",
+    "type": 15,
+    "id": 20021,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Golem All",
+    "viet_name": "Quy Thúc",
+    "type": 15,
+    "id": 20022,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Quad Envenom",
+    "viet_name": "Tứ độc thủ",
+    "type": 15,
+    "id": 20023,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Octa Breeze",
+    "viet_name": "Thập Khí",
+    "type": 15,
+    "id": 20024,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Triple Wood Spirit",
+    "viet_name": "Cây tinh 3",
+    "type": 15,
+    "id": 20025,
+    "sp": 36,
+    "element": 1
+  },
+  {
+    "eng_name": "Triple Frozen",
+    "viet_name": "Băng Phong",
+    "type": 15,
+    "id": 20026,
+    "sp": 80,
+    "element": 2
+  },
+  {
+    "eng_name": "Triple Whirlwind",
+    "viet_name": "Hoàn Phong",
+    "type": 15,
+    "id": 20027,
+    "sp": 30,
+    "element": 4
+  },
+  {
+    "eng_name": "Triple Typhoon",
+    "viet_name": "Bạo Phong",
+    "type": 15,
+    "id": 20028,
+    "sp": 60,
+    "element": 4
+  },
+  {
+    "eng_name": "Tiger Beam",
+    "viet_name": "Bạch Hổ Pháo",
+    "type": 15,
+    "id": 20029,
+    "sp": 80,
+    "element": 2
+  },
+  {
+    "eng_name": "Tiger Head",
+    "viet_name": "Bạch Hổ đầu",
+    "type": 15,
+    "id": 20030,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Left Claw",
+    "viet_name": "Tả Bạch Hổ trảo",
+    "type": 15,
+    "id": 20031,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Right Tiger Claw",
+    "viet_name": "HữuBạch Hổ trảo",
+    "type": 15,
+    "id": 20032,
+    "sp": 60,
+    "element": 0
+  },
+  {
+    "eng_name": "Despair Sword",
+    "viet_name": "Kiếm tuyệt vọng",
+    "type": 15,
+    "id": 20033,
+    "sp": 80,
+    "element": 0
+  },
+  {
+    "eng_name": "Ox Ram",
+    "viet_name": "Xe đầu trâu",
+    "type": 7,
+    "id": 20034,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Fine Blade Cart",
+    "viet_name": "Xeđao tinhluyện gang",
+    "type": 7,
+    "id": 20035,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Crossbow Cart",
+    "viet_name": "Xe Vận Cung",
+    "type": 7,
+    "id": 20036,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Stone Thrower",
+    "viet_name": "Xe lớn chở đá",
+    "type": 7,
+    "id": 20037,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Bow Fence",
+    "viet_name": "Giếng Cường Cung",
+    "type": 7,
+    "id": 20038,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Sniper Tower",
+    "viet_name": "Tháp Thần Tiễn",
+    "type": 7,
+    "id": 20039,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Nail Wall",
+    "viet_name": "Tường Đinh",
+    "type": 7,
+    "id": 20040,
+    "sp": 41,
+    "element": 0
+  },
+  {
+    "eng_name": "Bamboo Arrow",
+    "viet_name": "Cung tên trúc",
+    "type": 7,
+    "id": 20041,
+    "sp": 41,
+    "element": 0
+  },
+  {
+    "eng_name": "Explosive",
+    "viet_name": "Thuốc nổ",
+    "type": 7,
+    "id": 20042,
+    "sp": 41,
+    "element": 0
+  },
+  {
+    "eng_name": "Rock",
+    "viet_name": "Đá lớn",
+    "type": 7,
+    "id": 20043,
+    "sp": 41,
+    "element": 0
+  },
+  {
+    "eng_name": "Implosion",
+    "viet_name": "Phá hủy",
+    "type": 7,
+    "id": 20044,
+    "sp": 33,
+    "element": 0
+  },
+  {
+    "eng_name": "God angry devil",
+    "viet_name": "Thần nộ thiên tru",
+    "type": 7,
+    "id": 20045,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Tuidi",
+    "viet_name": "Đuổi địch",
+    "type": 7,
+    "id": 20046,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Cường hiệu thi độc",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Siêu cấp toàn phong",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Siêu cấp thụ tinh",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Cường hiệu giải trừ",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Cửu vỉ hồ mi hoặc",
+    "type": "",
+    "id": "",
+    "sp": "",
+    "element": ""
+  },
+  {
+    "eng_name": "Hammerfall",
+    "viet_name": "Chấn địa chùy",
+    "type": 16,
+    "id": 21001,
+    "sp": 54,
+    "element": 1
+  },
+  {
+    "eng_name": "Frost Thrust",
+    "viet_name": "Hàn băng quán",
+    "type": 16,
+    "id": 21002,
+    "sp": 44,
+    "element": 2
+  },
+  {
+    "eng_name": "Flame of Sin",
+    "viet_name": "Hồng liên hỏa",
+    "type": 16,
+    "id": 21003,
+    "sp": 54,
+    "element": 3
+  },
+  {
+    "eng_name": "Wind Slash",
+    "viet_name": "Phá không thiểm",
+    "type": 16,
+    "id": 21004,
+    "sp": 48,
+    "element": 4
+  },
+  {
+    "eng_name": "Bull Fury",
+    "viet_name": "Mãnh ngưu kích",
+    "type": 16,
+    "id": 21005,
+    "sp": 48,
+    "element": 1
+  },
+  {
+    "eng_name": "Ice Spike",
+    "viet_name": "Băng nha nhẫn",
+    "type": 16,
+    "id": 21006,
+    "sp": 36,
+    "element": 2
+  },
+  {
+    "eng_name": "Rage Flame",
+    "viet_name": "Chính diệm nộ",
+    "type": 16,
+    "id": 21007,
+    "sp": 48,
+    "element": 3
+  },
+  {
+    "eng_name": "Venom Gale",
+    "viet_name": "Gió độc",
+    "type": 16,
+    "id": 21008,
+    "sp": 30,
+    "element": 4
+  },
+  {
+    "eng_name": "Meteor Strike",
+    "viet_name": "Vẫn tinh lạc",
+    "type": 16,
+    "id": 21009,
+    "sp": 48,
+    "element": 1
+  },
+  {
+    "eng_name": "Conqueror Fist",
+    "viet_name": "Trùng quyền",
+    "type": 16,
+    "id": 21010,
+    "sp": 48,
+    "element": 2
+  },
+  {
+    "eng_name": "Rising Phoenix",
+    "viet_name": "Hỏa phụng thiên",
+    "type": 16,
+    "id": 21011,
+    "sp": 72,
+    "element": 3
+  },
+  {
+    "eng_name": "Spear Returner",
+    "viet_name": "Hồi mã thương",
+    "type": 16,
+    "id": 21012,
+    "sp": 52,
+    "element": 4
+  },
+  {
+    "eng_name": "Lion Soul",
+    "viet_name": "Sư Phệ",
+    "type": 16,
+    "id": 21013,
+    "sp": 64,
+    "element": 1
+  },
+  {
+    "eng_name": "Flame Scythe",
+    "viet_name": "Liềm Trảm",
+    "type": 16,
+    "id": 21014,
+    "sp": 72,
+    "element": 3
+  },
+  {
+    "eng_name": "Double Flash",
+    "viet_name": "Nhị Đoạn Thức",
+    "type": 16,
+    "id": 21015,
+    "sp": 56,
+    "element": 2
+  },
+  {
+    "eng_name": "Wind Scar",
+    "viet_name": "Động Ngân",
+    "type": 16,
+    "id": 21016,
+    "sp": 72,
+    "element": 4
+  },
+  {
+    "eng_name": "Saber Crater",
+    "viet_name": "Thâm Uyên",
+    "type": 16,
+    "id": 21017,
+    "sp": 65,
+    "element": 1
+  },
+  {
+    "eng_name": "Flame Cutter",
+    "viet_name": "Nhẫn Trảm",
+    "type": 16,
+    "id": 21018,
+    "sp": 75,
+    "element": 3
+  },
+  {
+    "eng_name": "Archer set 20 Jun",
+    "viet_name": "Tiễn thần Định quân",
+    "type": 16,
+    "id": 21019,
+    "sp": 72,
+    "element": 4
+  },
+  {
+    "eng_name": "Cursed devil Pacific",
+    "viet_name": "Thiên tru thái bình",
+    "type": 16,
+    "id": 21020,
+    "sp": 80,
+    "element": 1
+  },
+  {
+    "eng_name": "Front to eliminate J",
+    "viet_name": "Địadiệtkinhđàotrận",
+    "type": 16,
+    "id": 21021,
+    "sp": 80,
+    "element": 2
+  },
+  {
+    "eng_name": "Funeral fatal fire",
+    "viet_name": "Nhân vong tống táng",
+    "type": 16,
+    "id": 21022,
+    "sp": 80,
+    "element": 3
+  },
+  {
+    "eng_name": "Huang legislation di",
+    "viet_name": "Thương thiên đã chết",
+    "type": 16,
+    "id": 21023,
+    "sp": 0,
+    "element": 0
+  },
+  {
+    "eng_name": "Paper cutting Upanis",
+    "viet_name": "Thácđaophápáonghĩa",
+    "type": 16,
+    "id": 21024,
+    "sp": 77,
+    "element": 4
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Cuồng xà đoạt thủ",
+    "type": 16,
+    "id": 21025,
+    "sp": 77,
+    "element": 3
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Nhân giả vô địch",
+    "type": 16,
+    "id": 21026,
+    "sp": 77,
+    "element": 1
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Kết nghĩa vườn đào",
+    "type": 16,
+    "id": 21027,
+    "sp": 77,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Nhân giả vô địch",
+    "type": 16,
+    "id": 21028,
+    "sp": 77,
+    "element": 1
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Lạc Thuỷ kết tụ",
+    "type": 16,
+    "id": 21029,
+    "sp": 82,
+    "element": 2
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Nham diệp phiêu kiếm",
+    "type": 16,
+    "id": 21030,
+    "sp": 82,
+    "element": 1
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quang mâu thuật",
+    "type": 18,
+    "id": 22001,
+    "sp": 15,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Phật quang chưởng",
+    "type": 18,
+    "id": 22002,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Huyễn quang",
+    "type": 18,
+    "id": 22003,
+    "sp": 72,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Liệt diệm chi quang",
+    "type": 18,
+    "id": 22004,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quang du thuật",
+    "type": 18,
+    "id": 22005,
+    "sp": 15,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quang chi kính",
+    "type": 18,
+    "id": 22006,
+    "sp": 46,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quang tuyền quán chú",
+    "type": 18,
+    "id": 22007,
+    "sp": 72,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Hồi quang phản chiếu",
+    "type": 18,
+    "id": 22008,
+    "sp": 40,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quang tốc đầu trịch",
+    "type": 18,
+    "id": 22009,
+    "sp": 104,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Kim tê công kích",
+    "type": 18,
+    "id": 22010,
+    "sp": 24,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Bạch Hổ",
+    "type": 18,
+    "id": 22011,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi tiểu Bạch Hổ",
+    "type": 18,
+    "id": 22012,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi trung Bạch Hổ",
+    "type": 18,
+    "id": 22013,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi đại Bạch Hổ",
+    "type": 18,
+    "id": 22014,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Tập thức quang đạn",
+    "type": 18,
+    "id": 22015,
+    "sp": 84,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Đồng quang chi ban",
+    "type": 18,
+    "id": 22016,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Đ quang chi ban",
+    "type": 18,
+    "id": 22017,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.L diệm chi quang",
+    "type": 18,
+    "id": 22018,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Chân huyễn quang",
+    "type": 18,
+    "id": 22019,
+    "sp": 72,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Phật quang chưởng",
+    "type": 18,
+    "id": 22020,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Siêu quang ba",
+    "type": 18,
+    "id": 22021,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Quyền khuynh vạn lý",
+    "type": 18,
+    "id": 22022,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Ám độc tiễn",
+    "type": 19,
+    "id": 23001,
+    "sp": 15,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Ám đao trảm",
+    "type": 19,
+    "id": 23002,
+    "sp": 66,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Hắc toàn trảm",
+    "type": 19,
+    "id": 23003,
+    "sp": 72,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Vu độc",
+    "type": 19,
+    "id": 23004,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Tụ ẩn kiếm",
+    "type": 19,
+    "id": 23005,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Khô lâu đầu trịch",
+    "type": 19,
+    "id": 23006,
+    "sp": 52,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Vu độc oa oa",
+    "type": 19,
+    "id": 23007,
+    "sp": 50,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Yêu thuật kích hoả",
+    "type": 19,
+    "id": 23008,
+    "sp": 69,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Mê hoặc độc trâm",
+    "type": 19,
+    "id": 23009,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Độc phi luân",
+    "type": 19,
+    "id": 23010,
+    "sp": 56,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Huyền Vũ",
+    "type": 19,
+    "id": 23011,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi tiểu Huyền Vũ",
+    "type": 19,
+    "id": 23012,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi trung Huyền Vũ",
+    "type": 19,
+    "id": 23013,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Gọi đại Huyền Vũ",
+    "type": 19,
+    "id": 23014,
+    "sp": 120,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Vựng trảm",
+    "type": 19,
+    "id": 23015,
+    "sp": 56,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Hắc ám liên trảm",
+    "type": 19,
+    "id": 23016,
+    "sp": 84,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Ám độc tiễn",
+    "type": 19,
+    "id": 23017,
+    "sp": 15,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Chân Vu độc",
+    "type": 19,
+    "id": 23018,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Vạn độc xuyên tâm",
+    "type": 19,
+    "id": 23019,
+    "sp": 72,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Độc phi luân",
+    "type": 19,
+    "id": 23020,
+    "sp": 56,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Ám nhẫn trẩm",
+    "type": 19,
+    "id": 23021,
+    "sp": 66,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "C.Mê hoặc độc trâm",
+    "type": 19,
+    "id": 23022,
+    "sp": 30,
+    "element": 0
+  },
+  {
+    "eng_name": "",
+    "viet_name": "Phiêu diêu lưu phong",
+    "type": 19,
+    "id": 23023,
+    "sp": 82,
+    "element": 0
+  }
+]
